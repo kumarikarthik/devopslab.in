@@ -1,3 +1,4 @@
+#Powershell Script to field Even and Odd numbers .
 for($i=0;$i -le 100;$i++)
 {
 
